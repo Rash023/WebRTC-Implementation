@@ -19,8 +19,7 @@ This project demonstrates a simple implementation of WebRTC using TypeScript and
 ## 🚀 Setup and Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/webrtc-example.git
-   cd webrtc-example
+   
 
 2. Install dependencies:
    npm install
